@@ -19,7 +19,7 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 ## Visualizar o Projeto
 Você pode visualizar o projeto clicando no link abaixo:
 
-https://emilyfas.github.io/mario-game/
+https://github.com/ricarduvieira/jogo-mario
 
 ---
 # Índice 
@@ -37,11 +37,9 @@ https://emilyfas.github.io/mario-game/
 ---
 ## Recursos Aprimorados
 
-1. Tela de Game Over: Agora, quando o jogador perde, é exibida uma tela de Game Over, indicando que o Mario colidiu com um obstáculo. Isso adiciona uma camada de feedback visual ao jogo.
+1. Novos Containres - Incluidos containers colocridos para o Mario pular
 
-2. Botão de Reinício: Após o jogo terminar, o jogador pode reiniciá-lo facilmente com um novo botão de reinício. Isso evita a necessidade de recarregar a página para jogar novamente.
-
-3. Novas Teclas de Funcionalidade: Além das teclas de salto existentes, foram adicionadas novas teclas de funcionalidade para oferecer mais opções de interação durante o jogo.
+2. Contato via WhatsApp - Incluido a opção de contato via WhatsApp no meu de contatos da tela inicial do jogo
 
 
 <div align="right">
@@ -51,15 +49,11 @@ https://emilyfas.github.io/mario-game/
 
 ## Como Jogar:
 
-1. [Abra o jogo](https://emilyfas.github.io/mario-game/) no seu navegador.  
+1. [Abra o jogo](https://github.com/ricarduvieira/jogo-mario) no seu navegador.  
 
 2. Ao iniciar o jogo, o Mario estará em posição inicial.
 
 3. Clique em na barra de espaço do teclado para fazer o Mario pular e evitar colidir com os obstáculos.
-
-4. Caso o Mario colida com um obstáculo, o jogo é encerrado. A tela de Game Over será exibida.
-
-5. Para jogar novamente, clique no botão de reinício ou na tecla <i>Enter</i>.
 
 ---
 <div id="tecnologias-utilizadas">
@@ -98,13 +92,16 @@ Alguns meios de contato:
 
 ## Creditos
 
-Link de acesso ao vídeo do projeto inicial:
+Projeto foi feito pelo canal "Manual do Dev" (https://youtu.be/r9buAwVBDhA), o professor tem uma didática ótima, consegui entender muitas que estava tendo dificuldade através deste projeto.
 
-https://youtu.be/r9buAwVBDhA
+Novas funcionalidades desenvolvidade pela Emily Fernandes (https://emilyfas.github.io/mario-game/)
 
-Projeto foi feito pelo canal "Manual do Dev", o professor tem uma didática ótima, consegui entender muitas que estava tendo dificuldade através deste projeto.
+1. Tela de Game Over: Agora, quando o jogador perde, é exibida uma tela de Game Over, indicando que o Mario colidiu com um obstáculo. Isso adiciona uma camada de feedback visual ao jogo.
 
-Este projeto foi inicialmente inspirado no tutorial Como criar um jogo SIMPLES usando JavaScript e HTML (https://youtu.be/r9buAwVBDhA) e aprimorado por [Ricardo Vieira]. Agradecimentos especiais a [Manual do Dev] pela criação do projeto base que serviu para muita evolução e aprendizagem.
+2. Botão de Reinício: Após o jogo terminar, o jogador pode reiniciá-lo facilmente com um novo botão de reinício. Isso evita a necessidade de recarregar a página para jogar novamente.
+
+3. Novas Teclas de Funcionalidade: Além das teclas de salto existentes, foram adicionadas novas teclas de funcionalidade para oferecer mais opções de interação durante o jogo.
+
 
 <div align="right">
 
