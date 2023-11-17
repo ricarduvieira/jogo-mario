@@ -3,7 +3,8 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 
 <div align="center">
 
-![image](https://github.com/ricarduvieira/jogo-mario/assets/102393137/9b28077e-4a5a-4f95-92f3-983c705643eb)
+![Captura de tela - Mario Game](https://github.com/emilyfas/mario-game/assets/115494759/a81e783b-432e-485d-957e-449c9c0fd564)
+
 
 </div>
 
@@ -18,7 +19,7 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 ## Visualizar o Projeto
 Você pode visualizar o projeto clicando no link abaixo:
 
-https://ricarduvieira.github.io/jogo-mario/jogo.html
+https://emilyfas.github.io/mario-game/
 
 ---
 # Índice 
@@ -34,15 +35,13 @@ https://ricarduvieira.github.io/jogo-mario/jogo.html
 
 
 ---
-<!-- ## Recursos Aprimorados
+## Recursos Aprimorados
 
 1. Tela de Game Over: Agora, quando o jogador perde, é exibida uma tela de Game Over, indicando que o Mario colidiu com um obstáculo. Isso adiciona uma camada de feedback visual ao jogo.
 
 2. Botão de Reinício: Após o jogo terminar, o jogador pode reiniciá-lo facilmente com um novo botão de reinício. Isso evita a necessidade de recarregar a página para jogar novamente.
 
 3. Novas Teclas de Funcionalidade: Além das teclas de salto existentes, foram adicionadas novas teclas de funcionalidade para oferecer mais opções de interação durante o jogo.
-
--->
 
 
 <div align="right">
@@ -99,15 +98,13 @@ Alguns meios de contato:
 
 ## Creditos
 
-Projeto foi feito pelo canal "Manual do Dev" (https://youtu.be/r9buAwVBDhA), o professor tem uma didática ótima, consegui entender muitas duvidas que estava tendo dificuldade através deste projeto.
+Link de acesso ao vídeo do projeto inicial:
 
-O projeto foi aprimorado por [https://github.com/emilyfas/mario-game] que incluiu os seguintes recursos:
+https://youtu.be/r9buAwVBDhA
 
-1. Tela de Game Over: Agora, quando o jogador perde, é exibida uma tela de Game Over, indicando que o Mario colidiu com um obstáculo. Isso adiciona uma camada de feedback visual ao jogo.
+Projeto foi feito pelo canal "Manual do Dev", o professor tem uma didática ótima, consegui entender muitas que estava tendo dificuldade através deste projeto.
 
-2. Botão de Reinício: Após o jogo terminar, o jogador pode reiniciá-lo facilmente com um novo botão de reinício. Isso evita a necessidade de recarregar a página para jogar novamente.
-
-3. Novas Teclas de Funcionalidade: Além das teclas de salto existentes, foram adicionadas novas teclas de funcionalidade para oferecer mais opções de interação durante o jogo.
+Este projeto foi inicialmente inspirado no tutorial Como criar um jogo SIMPLES usando JavaScript e HTML (https://youtu.be/r9buAwVBDhA) e aprimorado por [Ricardo Vieira]. Agradecimentos especiais a [Manual do Dev] pela criação do projeto base que serviu para muita evolução e aprendizagem.
 
 <div align="right">
 
