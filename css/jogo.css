@@ -124,7 +124,7 @@ header {
 
 @keyframes pipeAnimation {
     from {
-        right: -1500px;
+        right: -2000px;
     }
 
     to {
@@ -255,7 +255,7 @@ header {
     .pipe3 {
         animation: pipeAnimation 1.5s infinite linear;
     }
-    
+
     .game-over {
         width: 230px;
     }
