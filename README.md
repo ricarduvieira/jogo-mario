@@ -7,14 +7,14 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 
 
 </div>
-<!--
-<div align=center>
+
+<!-- <div align=center>
 
 ![License](https://img.shields.io/github/license/emilyfas/mario-game?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/emilyfas/mario-game?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/emilyfas/mario-game?style=flat-square)
-</div>
--->
+</div> -->
+
 
 ## Visualizar o Projeto
 Você pode visualizar o projeto clicando no link abaixo:
@@ -84,8 +84,6 @@ Alguns meios de contato:
 <div>
 <a href="https://wa.me/5511984947480?text=Me+mande+um+Oi+%3A%29" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/ricardovieras/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!-- <a href="https://twitter.com/emilly_fernads" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-<a href = "mailto:emilly.fernandesads@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
 <a href="https://www.linkedin.com/in/ricarduvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 </div>
