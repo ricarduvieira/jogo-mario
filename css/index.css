@@ -116,7 +116,7 @@ a {
     bottom: 0;
     width: 80px;
     height: 80px;
-    animation: pipeAnimation 3s 3s infinite linear -1s;
+    animation: pipeAnimation 3s infinite linear -1s;
 }
 
 .pipe2 {
