@@ -18,7 +18,7 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 ## Visualizar o Projeto
 Você pode visualizar o projeto clicando no link abaixo:
 
-[https://emilyfas.github.io/mario-game/](https://ricarduvieira.github.io/jogo-mario/)
+https://ricarduvieira.github.io/jogo-mario/jogo.html
 
 ---
 # Índice 
