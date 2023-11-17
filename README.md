@@ -5,6 +5,7 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 
 ![Captura de tela - Mario Game](https://github.com/emilyfas/mario-game/assets/115494759/a81e783b-432e-485d-957e-449c9c0fd564)
 
+>! 
 </div>
 <div align=center>
 
@@ -76,7 +77,7 @@ https://emilyfas.github.io/mario-game/
 <div id="contato">
 
 ## Contato:
-### Emilly Fernandes
+### Ricardo Vieira
 Alguns meios de contato:
 <div>
 <a href="https://wa.me/5531989018696?text=Me+mande+um+Oi+%3A%29" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
