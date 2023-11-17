@@ -19,7 +19,7 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 ## Visualizar o Projeto
 Você pode visualizar o projeto clicando no link abaixo:
 
-https://github.com/ricarduvieira/jogo-mario
+https://ricarduvieira.github.io/jogo-mario/
 
 ---
 # Índice 
@@ -49,7 +49,7 @@ https://github.com/ricarduvieira/jogo-mario
 
 ## Como Jogar:
 
-1. [Abra o jogo](https://github.com/ricarduvieira/jogo-mario) no seu navegador.  
+1. [Abra o jogo](https://ricarduvieira.github.io/jogo-mario/) no seu navegador.  
 
 2. Ao iniciar o jogo, o Mario estará em posição inicial.
 
