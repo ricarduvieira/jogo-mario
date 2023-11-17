@@ -1,14 +1,16 @@
-*{
+* {
     margin: 0;
     padding: 0;
     font-family: 'Roboto Mono', monospace;
     color: #fff;
 }
-body{
+
+body {
     width: 100vw;
     overflow: hidden;
 }
-.contato{
+
+.contato {
     display: flex;
     width: 100%;
     justify-content: end;
@@ -16,15 +18,18 @@ body{
     position: absolute;
     top: 20px;
 }
-.contato a{
+
+.contato a {
     width: auto;
     height: 30px;
 }
-.contato-container{
+
+.contato-container {
     position: relative;
     display: inline-block;
 }
-.dropbtn{
+
+.dropbtn {
     background-color: #003f72;
     border: none;
     width: 100px;
@@ -32,14 +37,16 @@ body{
     color: #fff;
     font-size: 15px;
 }
+
 .dropdown-content {
     display: none;
     position: absolute;
     background-color: #003f72;
     width: 100px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
 }
+
 .dropdown-content a {
     color: #fff;
     padding: 5px;
@@ -47,6 +54,7 @@ body{
     text-decoration: none;
     display: block;
 }
+
 .dropdown-content a:hover {
     background-color: #007bc2;
     width: 100%;
@@ -61,7 +69,7 @@ body{
     background-color: #002f55;
 }
 
-main{
+main {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -71,73 +79,115 @@ main{
     background: linear-gradient(#0084d1, #c9ecff);
     overflow: hidden;
 }
-h1, p, a, h2{
+
+h1,
+p,
+a,
+h2 {
     width: 100%;
     text-align: center;
 }
-h1{
+
+h1 {
     font-size: 80px;
 }
-.start-container img, a{
+
+.start-container img,
+a {
     height: 70px;
     width: 220px;
 }
-.title-container{
+
+.title-container {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     margin-top: 5%;
 }
-.start-container:hover img, a{
+
+.start-container:hover img,
+a {
     height: 80px;
     width: 240px;
 }
 
-.pipe{
+.pipe {
     position: absolute;
     bottom: 0;
     width: 80px;
     height: 80px;
-    animation: pipeAnimation 3s infinite linear;
-
+    animation: pipeAnimation 3s 3s infinite linear -1s;
 }
-.clouds{
+
+.pipe2 {
+    position: absolute;
+    bottom: 0;
+    width: 80px;
+    height: 80px;
+    animation: pipeAnimation 3s infinite linear -3s;
+}
+
+.pipe3 {
+    position: absolute;
+    bottom: 0;
+    width: 80px;
+    height: 80px;
+    animation: pipeAnimation 3s infinite linear -5s;
+}
+
+.clouds {
     position: absolute;
     width: 750px;
     height: 300px;
     margin-top: 10px;
-    animation: cloudsAnimation 4s infinite linear;
+    animation: cloudsAnimation 6s infinite linear;
     z-index: 0;
 }
-@keyframes pipeAnimation{
-    from{
+
+@keyframes pipeAnimation {
+    from {
         right: -80px;
     }
-    to{
+
+    to {
         right: 100%;
     }
 }
-@keyframes cloudsAnimation{
-    from{
+
+@keyframes cloudsAnimation {
+    from {
         right: -600px;
     }
-    to{
+
+    to {
         right: 100%;
     }
 }
-@media screen and (max-width: 1000px){
-    .pipe{
+
+@media screen and (max-width: 1000px) {
+    .pipe {
         display: none;
     }
-    .clouds{
+
+    .pipe2 {
+        display: none;
+    }
+
+    .pipe3 {
+        display: none;
+    }
+
+    .clouds {
         display: none;
     }
 }
-@media screen and (max-width: 500px){
-    h1{
+
+@media screen and (max-width: 500px) {
+    h1 {
         font-size: 60px;
     }
-    main{
+
+    main {
         padding: 2%;
     }
 }
