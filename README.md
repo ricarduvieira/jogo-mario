@@ -99,11 +99,7 @@ Alguns meios de contato:
 
 ## Creditos
 
-Link de acesso ao vídeo do projeto inicial:
-
-https://youtu.be/r9buAwVBDhA
-
-Projeto foi feito pelo canal "Manual do Dev" (https://youtu.be/r9buAwVBDhA), o professor tem uma didática ótima, consegui entender muitas que estava tendo dificuldade através deste projeto.
+Projeto foi feito pelo canal "Manual do Dev" (https://youtu.be/r9buAwVBDhA), o professor tem uma didática ótima, consegui entender muitas duvidas que estava tendo dificuldade através deste projeto.
 
 O projeto foi aprimorado por [https://github.com/emilyfas/mario-game] que incluiu os seguintes recursos:
 
