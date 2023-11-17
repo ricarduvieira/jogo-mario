@@ -5,13 +5,13 @@ No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 
 ![Captura de tela - Mario Game](https://github.com/emilyfas/mario-game/assets/115494759/a81e783b-432e-485d-957e-449c9c0fd564)
 
->! 
+
 </div>
 <div align=center>
 
-![License](https://img.shields.io/github/license/emilyfas/mario-game?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/emilyfas/mario-game?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/emilyfas/mario-game?style=flat-square)
+>! ![License](https://img.shields.io/github/license/emilyfas/mario-game?style=flat-square)
+>! ![GitHub repo size](https://img.shields.io/github/repo-size/emilyfas/mario-game?style=flat-square)
+>! ![GitHub last commit](https://img.shields.io/github/last-commit/emilyfas/mario-game?style=flat-square)
 </div>
 
 ## Visualizar o Projeto
