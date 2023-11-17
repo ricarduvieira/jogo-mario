@@ -146,7 +146,7 @@ a {
 
 @keyframes pipeAnimation {
     from {
-        right: -80px;
+        right: -100px;
     }
 
     to {
@@ -156,7 +156,7 @@ a {
 
 @keyframes cloudsAnimation {
     from {
-        right: -2000px;
+        right: -600px;
     }
 
     to {
