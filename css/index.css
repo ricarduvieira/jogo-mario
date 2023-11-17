@@ -156,7 +156,7 @@ a {
 
 @keyframes cloudsAnimation {
     from {
-        right: -600px;
+        right: -2000px;
     }
 
     to {
