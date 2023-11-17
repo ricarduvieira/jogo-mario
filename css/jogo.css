@@ -192,11 +192,11 @@ header {
         width: 50px;
         height: 50px;
     }
+
     .pipe3 {
         width: 50px;
         height: 50px;
     }
-
 
     .mario {
         width: 100px;
@@ -251,9 +251,11 @@ header {
     .pipe2 {
         animation: pipeAnimation 1.5s infinite linear;
     }
+
     .pipe3 {
         animation: pipeAnimation 1.5s infinite linear;
     }
+    
     .game-over {
         width: 230px;
     }
