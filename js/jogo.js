@@ -63,7 +63,7 @@ const loop = setInterval(() => {
             updateDisplay(++counterVal);
         }
     } else {
-        if (pipePosition <= 80 && pipePosition > 0 && marioPosition < 50 || pipe2Position <= 80 && pipe2Position > 0 && marioPosition < 50  || pipe3Position <= 80 && pipe3Position > 0 && marioPosition < 50) {
+        if (pipePosition <= 80 && pipePosition > 0 && marioPosition < 50 || pipe2Position <= 80 && pipe2Position > 0 && marioPosition < 50 || pipe3Position <= 80 && pipe3Position > 0 && marioPosition < 50) {
             pipe.style.animation = 'none';
             pipe.style.left = `${pipePosition}px`;
             pipe2.style.animation = 'none';
